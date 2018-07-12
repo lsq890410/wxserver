@@ -6,7 +6,7 @@
 	<groupId>com.lisq.wxserver</groupId>
 	<artifactId>WxServer-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>WxServer-mvc</name>
 	<description>com.lisq.wxserver</description>
