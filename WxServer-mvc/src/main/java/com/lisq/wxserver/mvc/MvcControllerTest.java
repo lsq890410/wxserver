@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
 public class MvcControllerTest {
-	@RequestMapping("/test1")
+	@RequestMapping("/test2")
 	@ResponseBody
 	String home(HttpServletRequest request) {
 		return "Hello World!"+request.getParameter("user");
